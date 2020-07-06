@@ -5,7 +5,7 @@
     <classes>
       <class name="maventest.maventest">
         <methods>
-          <include name="readTestCaseFromGit"/>
+          <include name="testLogin"/>
         </methods>
       </class> <!-- maventest.maventest -->
     </classes>
